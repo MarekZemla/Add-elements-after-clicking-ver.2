@@ -1,0 +1,14 @@
+button {
+    display: block;
+    margin: 50px auto;
+    padding: 20px, 35px;
+    font-size: 24px;
+}
+
+.big {
+    display: block;
+    font-size: 44px;
+    color: red;
+    text-decoration: dotted;
+
+}
